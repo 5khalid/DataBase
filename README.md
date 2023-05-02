@@ -19,4 +19,4 @@ This project was completed by my team which includes me and my colleagues (Saud 
 </p>
 
 
-<h3>Note: The two phases are uploaded in separate files</h3>
+<h3>Note: The two phases and the project code are uploaded in separate files</h3>
